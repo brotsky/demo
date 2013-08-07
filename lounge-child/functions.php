@@ -17,4 +17,3 @@ fdsajh
 add_action( 'wp_enqueue_scripts', 'wp_schools_enqueue_scripts' );
 
 echo "yo dawg, I'm cool";
-
