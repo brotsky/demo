@@ -11,3 +11,5 @@ echo "sup dawggggg"; //whats up Michael
 
 }
 add_action( 'wp_enqueue_scripts', 'wp_schools_enqueue_scripts' );
+
+echo "yo dawg";
